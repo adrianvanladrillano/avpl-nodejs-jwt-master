@@ -1,0 +1,19 @@
+{
+  "name": "avpl-nodejs-jwt-master",
+  "version": "1.0.0",
+  "description": "NodeJS JWT MongDB CRUD",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AVPL",
+  "license": "ISC"
+}
